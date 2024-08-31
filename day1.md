@@ -1,0 +1,13 @@
+DAY-1-QUESTIONS:
+1.Relative to Parent Element's Font Size: The em unit is relative to the font size of the element's parent or the element itself.
+-1em equals 20px
+Relative to Root Element’s Font Size: The rem unit is relative to the root element's        (<html> tag) font size.
+-1rem equals 16px
+
+2. A closure in JavaScript is a function that remembers the environment in which it was created, even after that environment no longer exists. In simpler terms, a closure allows a function to access variables from its outer (enclosing) function scope, even after the outer function has finished executing.
+
+3. Semantic HTML tags are HTML elements that convey meaning about the content they contain, both to the browser and to developers. These tags provide information about the structure and purpose of the content, which helps with accessibility, SEO (Search Engine Optimization), and overall code clarity.
+Ex-<header>,<nav>,<main>,<footer> etc.
+
+5. The srcset attribute in the <img> tag is used to define a list of image sources with different sizes or resolutions, allowing the browser to choose the most appropriate image to display based on the device's screen size, resolution, and other factors. This attribute is essential for responsive web design, ensuring that images look sharp and load efficiently on a wide range of devices.
+
